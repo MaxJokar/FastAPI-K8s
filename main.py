@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"Hello": "World 17.03.2025  1"}
+    return {"Hello": "World 17.03.2025  this is  from dev1 added to this code to be merged with master"}
 
 #  dev1 added
 #  dev1  coded
