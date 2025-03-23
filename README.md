@@ -24,4 +24,5 @@ How to run:
 
 # steps:
 step 1: create a simple FastAPi to fetch data from Brower
-step 2 : create a  Dev1 branch 
+A new Developer,dev1 needed: create a  Dev1 branch 
+A frontEnd wanted:
