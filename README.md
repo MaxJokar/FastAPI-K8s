@@ -21,3 +21,6 @@ How to run:
    $ source ./venv/bin/activate
    MyProjects/FastAPI-K8s/P1_FastAPI-K8s$  uvicorn main:app --reload
    http://127.0.0.1:8000/
+
+# steps:
+step 1: create a simple FastAPi to fetch data from Brower
